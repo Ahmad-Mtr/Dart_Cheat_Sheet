@@ -1,5 +1,0 @@
-// Spread Operator ...
-main(){
-
-
-}
